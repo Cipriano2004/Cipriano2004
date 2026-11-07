@@ -1,24 +1,26 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Ariel Cipriano — Segurança da Informação · Analista SOC em formação" src="assets/banner-dark.svg" width="100%">
+  <img alt="Ariel Cipriano — Segurança, Redes e Infraestrutura" src="assets/banner-dark.svg" width="100%">
 </picture>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ariel-cipriano"><img src="https://img.shields.io/badge/LinkedIn-ariel--cipriano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:arielcipra2004@gmail.com"><img src="https://img.shields.io/badge/E--mail-arielcipra2004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-  <img src="https://img.shields.io/badge/Disponível_para-vagas_SOC_Jr-34D399?style=for-the-badge" alt="Disponível para vagas SOC Jr">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Disponível_para-SOC_Jr_·_NOC_Jr_·_Infraestrutura_Jr_·_Observabilidade_·_Suporte_N1-34D399?style=for-the-badge" alt="Disponível para vagas de SOC Jr, NOC Jr, Infraestrutura Jr, Observabilidade e Suporte N1">
 </p>
 
 ## Olá, eu sou o Ariel 👋
 
-Sou bacharel em **Tecnologia da Informação** (UNINOVE) e técnico em Informática para Internet (ETEC). Estou fazendo a transição para **Segurança da Informação**, com foco em **SOC e Blue Team**.
+Sou bacharel em **Tecnologia da Informação** (UNINOVE) e técnico em Informática para Internet (ETEC). Trabalho com **segurança, redes e infraestrutura**: monitorar ambientes, investigar alertas, manter serviços no ar e resolver problemas de quem usa.
 
 Gosto de transformar trabalho manual em sistema. Na Câmara Municipal, por exemplo, criei por conta própria um sistema que gerava ofícios, gráficos e resumos para reuniões. Aqui no GitHub eu documento o que construo e estudo: detecção de ameaças, redes e desenvolvimento seguro.
 
-- 🎯 **Buscando:** primeira oportunidade como Analista SOC / Segurança da Informação Jr.
+- 🎯 **Buscando:** vagas de **SOC Jr**, **NOC Jr**, **Infraestrutura Jr**, **Observabilidade** ou **Suporte N1**
 - 📚 **Estudando agora:** CompTIA Security+ e EC-Council Certified SOC Analyst (CSA)
-- 🧪 **Em construção:** um homelab de SOC para praticar detecção e resposta
+- 🧪 **Em construção:** um homelab de monitoramento e segurança para praticar detecção, observabilidade e resposta
 - 🌎 **Idiomas:** português nativo e **inglês fluente**
 - 📍 Poá, São Paulo, Brasil
 
@@ -104,12 +106,12 @@ Gosto de transformar trabalho manual em sistema. Na Câmara Municipal, por exemp
 <summary><b>🇺🇸 In English</b></summary>
 <br>
 
-I hold a Bachelor's degree in Information Technology and I'm moving into **Information Security**, focused on **SOC / Blue Team** work. I build hands-on projects to practice it:
+I hold a Bachelor's degree in Information Technology and work across **security, networking and infrastructure**: monitoring environments, triaging alerts, keeping services running and helping users. I build hands-on projects to practice it:
 
 - **NetSOC Lab**: network inventory with 9 MITRE ATT&CK–mapped detections, host anomaly detection with Isolation Forest, and SIEM-ready JSON events.
 - **Gestão de Ofícios**: a document-automation web app with role-based access, CSRF protection, rate limiting, CSP and an audit trail.
 
-I'm fluent in English and currently studying for CompTIA Security+ and EC-Council CSA. I'm open to **Junior SOC Analyst** roles, on-site, hybrid or remote.
+I'm fluent in English and currently studying for CompTIA Security+ and EC-Council CSA. I'm open to **Junior SOC, NOC, Infrastructure, Observability and IT Support (Tier 1)** roles, on-site, hybrid or remote.
 
 </details>
 
